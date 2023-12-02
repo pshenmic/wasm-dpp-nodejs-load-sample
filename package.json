@@ -1,0 +1,15 @@
+{
+  "name": "wasm-dpp-nodejs-load-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "pshenmic",
+  "license": "ISC",
+  "dependencies": {
+    "@dashevo/wasm-dpp": "^0.25.15"
+  }
+}
